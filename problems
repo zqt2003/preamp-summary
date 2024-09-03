@@ -1,0 +1,6 @@
+three points we need to focus on
+
+1. one sampling corresponds to one autozero.
+2. os needs to be stored fully, otherwise, the input reference voltage also contains the os part.
+3. comp kick noise will influence the result, so we need to reduce comp's current.
+Also, we need to focus on the  amp, the gain of amp should be stable in different pvt.
